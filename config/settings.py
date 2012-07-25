@@ -1,6 +1,6 @@
 __author__ = 'developer'
 
-host = 'maestro.inspira.com.br'
+host = 'server'
 port = 22
-user = 'alexandre.carvalho'
-password = 'ac0430!!'
+user = 'user'
+password = 'pass'
